@@ -44,3 +44,13 @@ app.*.symbols
 app.*.map.json
 
 .ottotime
+
+./.*
+
+!.gitignore
+!.gitattributes
+!.flutter-plugins-dependencies
+!.metadata
+!.fvm
+!.fvm/
+
