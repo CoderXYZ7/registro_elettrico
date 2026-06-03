@@ -47,6 +47,8 @@ app.*.map.json
 
 ./.*
 
+.*
+
 !.gitignore
 !.gitattributes
 !.flutter-plugins-dependencies
